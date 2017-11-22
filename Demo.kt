@@ -1,5 +1,5 @@
 
-// Simple Hellp World program
+// Simple Hello World program
 fun main(args : Array<String>){
-    print("Hello, World!")
+    println("Hello, World!")
 }
